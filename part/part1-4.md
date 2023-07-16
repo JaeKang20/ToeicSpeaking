@@ -16,10 +16,11 @@
 
 1. 사진이 찍힌 장소
 2. 등장 인물 인원
-3. 등장 인물 소개
+3. 등장 인물 소개 wearing~, explaning~, discussing etc...  
 
 
 1. I think this picture was taken in the ~
 2. there are 2 ~ 3 people in the picture
-3. in the middle of the picture / on the left side of the picture\
+3. in the middle of the picture /\
+on the left side of the picture\
 on the right side of the picture
