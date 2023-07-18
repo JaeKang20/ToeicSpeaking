@@ -15,7 +15,7 @@
 ***핵심 템플릿***
 
 1. 사진이 찍힌 장소
-2. 등장 인물 인원
+2. 인원 수
 3. 등장 인물 소개 wearing~, explaning~, discussing etc...  
 
 
@@ -24,3 +24,6 @@
 3. in the middle of the picture /\
 on the left side of the picture\
 on the right side of the picture
+
+Next to him,her\
+across him / behind him
