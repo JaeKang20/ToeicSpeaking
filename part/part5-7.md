@@ -21,6 +21,7 @@ i usually ~\
 
 형: reasonable price / comfortable atmosphere\
 expensive, eco-friendly, it's hard for me to ~\
-it's boring
+it's boring, it's funny, it could be something\
+in person, I'm interested in something
 
 동: concentrate on watching movie, it'll be guaranteed

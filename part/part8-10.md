@@ -34,6 +34,8 @@ on(in) as at를 잘 써먹자.
 많이 사용하는 어휘\
 it has been canceled / rescheduled\
 it will be held by Someone at 10 am\
+it will be led by
+
 Someone will give speech on something\
 Someone will give presentation on something\
 Someone will conduct demonstration on something
