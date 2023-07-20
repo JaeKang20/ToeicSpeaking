@@ -12,12 +12,16 @@ i usually ~\
 
 
 ## q5.
-두개의 의문사를 답하라 once a week\ who.what.when.
+두개의 의문사를 답하라 once a week, every day / who.what.when.
 **질문 이용해서 두가지를 답변**
 
 ## q6.
 의문문을 답하고 이유를 추가하라\
 **질문 이용해서 답변** ---> 이유 설명 *형용사, 동사 중심
+
+## q7.
+앞에 있는 질문이 길고 복잡하면\
+그냥 first,second를 말해도 된다.
 
 형: reasonable price / comfortable atmosphere\
 expensive, eco-friendly, it's hard for me to ~\
@@ -41,9 +45,6 @@ Affordable: The clothes are affordable.
 Delicious: The food was delicious.
 (음식이 맛있었어요.)
 
-Unpleasant: The weather is unpleasant today.
-(오늘 날씨가 좋지 않아요.)
-
 Convenient: The location of the hotel is convenient.
 (호텔 위치가 편리해요.)
 
@@ -55,3 +56,14 @@ Difficult: The exam was difficult.
 
 Comfortable: The bed was comfortable.
 (침대가 편안했어요.)
+
+It makes ing easy
+
+I can concentrate on
+
+I can be motivated by other people
+
+The cost of living has increased
+
+it's cheaper than going to academy
+

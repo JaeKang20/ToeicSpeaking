@@ -40,3 +40,16 @@ Someone will give speech on something\
 Someone will give presentation on something\
 Someone will conduct demonstration on something
 Someone will conduct a seminar
+
+the tour of ~~ is scheduled at 2:30 pm
+
+## q.8
+언제(또는 누가) 시작하고 어디로 가야하니?\
+**하지만** 10%의 확률로 언제 끝나니? 물어볼 수도..
+
+## q.9
+내가 가진 정보가 맞냐? 틀리냐?\
+-> 캔슬이나 포스트폰, 리스케쥴된 경우 많음
+
+## q.10
+확정된 세션 두가지를 말해달라.
