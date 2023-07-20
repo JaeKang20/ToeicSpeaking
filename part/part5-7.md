@@ -25,3 +25,33 @@ it's boring, it's funny, it could be something\
 in person, I'm interested in something
 
 동: concentrate on watching movie, it'll be guaranteed
+
+Interesting: The movie was interesting.
+(영화가 흥미로웠어요.)
+
+Boring: The class was boring.
+(수업이 지루했어요.)
+
+Expensive: The restaurant is expensive.
+(그 레스토랑은 비싸요.)
+
+Affordable: The clothes are affordable.
+(옷들이 저렴해요.)
+
+Delicious: The food was delicious.
+(음식이 맛있었어요.)
+
+Unpleasant: The weather is unpleasant today.
+(오늘 날씨가 좋지 않아요.)
+
+Convenient: The location of the hotel is convenient.
+(호텔 위치가 편리해요.)
+
+Challenging: The puzzle game is challenging.
+(퍼즐 게임이 도전적이에요.)
+
+Difficult: The exam was difficult.
+(시험이 어려웠어요.)
+
+Comfortable: The bed was comfortable.
+(침대가 편안했어요.)
