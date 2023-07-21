@@ -9,29 +9,10 @@ on(in) as at를 잘 써먹자.
 **On**: Monday, thursday .. Agust, july etc..\
 **in**: 2023,  morning, evening etc...
 
-**1부터 30까지의 날짜를 영어로 발음하는 방법은 다음과 같습니다:**
+**1부터 30까지의 날짜를 서수로 발음*
 
-- 1st: first (/fɜrst/)
-- 2nd: second (/sɛkənd/)
-- 3rd: third (/θɜrd/)
-- 4th: fourth (/fɔrθ/)
-- 5th: fifth (/fɪfθ/)\
-...
-- 11th: eleventh (/ɪˈlɛvənθ/)
-- 12th: twelfth (/twɛlfθ/)
-- 13th: thirteenth (/θɜrˈtiːnθ/)
-- 14th: fourteenth (/ˈfɔrtiːnθ/)
-- 15th: fifteenth (/ˈfɪftiːnθ/)\
-...
-- 21st: twenty-first (/ˈtwɛntiˌfɜrst/)
-- 22nd: twenty-second (/ˈtwɛntiˌsɛkənd/)
-- 23rd: twenty-third (/ˈtwɛntiˌθɜrd/)
-- 24th: twenty-fourth (/ˈtwɛntiˌfɔrθ/)
-- 25th: twenty-fifth (/ˈtwɛntiˌfɪfθ/)\
-...
-- 30th: thirtieth (/ˈθɜrtiɪθ/)
 
-많이 사용하는 어휘\
+*많이 사용하는 어휘\
 it has been canceled / rescheduled\
 it will be held by Someone at 10 am\
 it will be led by
@@ -42,6 +23,8 @@ Someone will conduct demonstration on something
 Someone will conduct a seminar
 
 the tour of ~~ is scheduled at 2:30 pm
+it should be closed to some where
+it should be reasonable price
 
 ## q.8
 언제(또는 누가) 시작하고 어디로 가야하니?\

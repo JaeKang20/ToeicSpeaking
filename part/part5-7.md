@@ -67,3 +67,4 @@ The cost of living has increased
 
 it's cheaper than going to academy
 
+중요시 생각하는 단어: task, problem, convienent, get discount, offer
